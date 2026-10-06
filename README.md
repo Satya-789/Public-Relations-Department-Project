@@ -63,9 +63,9 @@ pip install pandas numpy matplotlib seaborn scikit-learn nltk
 
 Here are some visualizations from the project:
 
-![alt text](https://github.com/27abhishek27/Public-Relations-Department-Project/blob/main/Public%20relation%20department%20project%20png/barplot.png)
-![alt text](https://github.com/27abhishek27/Public-Relations-Department-Project/blob/main/Public%20relation%20department%20project%20png/countplot.png)
-![alt text](https://github.com/27abhishek27/Public-Relations-Department-Project/blob/main/Public%20relation%20department%20project%20png/wordcloud.png)
+![alt text](https://github.com/Satya-789/Public-Relations-Department-Project/blob/main/Public%20relation%20department%20project%20png/barplot.png)
+![alt text](https://github.com/Satya-789/Public-Relations-Department-Project/blob/main/Public%20relation%20department%20project%20png/countplot.png)
+![alt text](https://github.com/Satya-789/Public-Relations-Department-Project/blob/main/Public%20relation%20department%20project%20png/wordcloud.png)
 
 ## 🛠️ Technologies Used
 
